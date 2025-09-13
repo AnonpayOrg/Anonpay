@@ -1,5 +1,7 @@
 [![ANONPAY Logo](https://anonpay.org/static/img/logow400.png)](https://anonpay.org)
 
+Payment Processor - Crypto Exchange - Free Mixer
+
 **Welcome to ANONPAY, a privacy-first payment solution.**
 
 ---
