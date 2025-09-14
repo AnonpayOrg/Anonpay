@@ -32,7 +32,7 @@ We automatically mix funds passing through our service by design.
 
 *Supported Payment Methods:*
 
-We accept a variety of payment options, including:
+We allow you to accept a variety of payment options, including:
 
 - **Cryptocurrencies:** Bitcoin, Litecoin, Monero, Bitcoin Cash, eCash, Dogecoin, and more coming soon
 - **PayPal:** Friends and Family and Goods and Services
